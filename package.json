@@ -1,13 +1,13 @@
 {
-  "id": "circleci",
-  "name": "CircleCI",
+  "id": "soundcloud",
+  "name": "Soundcloud",
   "version": "0.0.1",
-  "description": "CircleCI",
+  "description": "Soundcloud",
   "main": "index.js",
   "author": "Adam Wier <wier.adam@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://circleci.com/vcs-authorize",
+    "serviceURL": "https://soundcloud.com/discover",
     "hasNotificationSound": true,
     "disablewebsecurity": true
   }
